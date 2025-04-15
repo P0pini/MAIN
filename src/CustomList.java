@@ -53,4 +53,4 @@ public class CustomList <E>{
         E value = head.value;
         head=head.next;
     }
-}a
+}
